@@ -1,1 +1,0 @@
-let doc = document.getElementById("btn");
